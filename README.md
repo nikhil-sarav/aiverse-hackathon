@@ -90,6 +90,3 @@ Reduced cognitive load, improved career alignment, and automated application wor
 The proposed system shifts career planning from reactive job search to proactive career optimization using agentic AI with persistent memory and autonomous execution.
 
 ---
-
-## Contact
-[Insert Email / GitHub]
