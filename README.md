@@ -1,7 +1,7 @@
 # AI Career Architect: A Stateful Agentic System for Long-Term Career Optimization
 
 **Track:** Agentic Artificial Intelligence  
-**Institution:** IETE Student Forum, Amrita Vishwa Vidyapeetham  
+**Institution:** Amrita Vishwa Vidyapeetham  
 
 **Team Leader:** S Nikhil - CB.SC.U4AIE24351
 **Team Name:** FOB
