@@ -3,8 +3,8 @@
 **Track:** Agentic Artificial Intelligence  
 **Institution:** IETE Student Forum, Amrita Vishwa Vidyapeetham  
 
-**Team Leader:** [Insert Name]  
-**Team Name:** [Insert Team Name]  
+**Team Leader:** S Nikhil - CB.SC.U4AIE24351
+**Team Name:** FOB
 
 ---
 
